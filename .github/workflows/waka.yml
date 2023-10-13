@@ -6,9 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest

@@ -1,7 +1,7 @@
 ![Banner](./Header.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -50,17 +50,17 @@ Linux                    1 hr 23 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   39.53 % 
-Vue                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   38.64 % 
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 15/10/2023 12:23:48 UTC
+ Last Updated on 15/10/2023 18:16:03 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

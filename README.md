@@ -3,7 +3,7 @@
 [![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -34,17 +34,17 @@ Sunday                   203 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               32 hrs 6 mins       ████████████████████████░   97.23 % 
-CSS                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               29 hrs 12 mins      ████████████████████████░   97.96 % 
+CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-watchitnow               33 hrs 1 min        █████████████████████████   100.00 % 
+watchitnow               29 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    33 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    29 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,7 +60,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 00:56:28 UTC
+ Last Updated on 06/12/2023 00:56:38 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 [![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -34,19 +34,18 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               32 hrs 33 mins      █████████████████████░░░░   85.06 % 
-Vue.js                   2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-CSS                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Prisma                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript               36 hrs 32 mins      ███████████████████████░░   92.91 % 
+CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Prisma                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-watchitnow               34 hrs 20 mins      ██████████████████████░░░   89.75 % 
-portfolio                3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-equalizer                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+watchitnow               38 hrs 24 mins      ████████████████████████░   97.66 % 
+equalizer                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
-Linux                    38 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +61,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2023 00:55:40 UTC
+ Last Updated on 20/12/2023 00:45:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

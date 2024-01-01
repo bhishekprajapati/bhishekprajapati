@@ -3,6 +3,8 @@
 [![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2054%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -32,17 +34,17 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               19 hrs 33 mins      ████████████████████████░   95.84 % 
-Prisma                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript               22 hrs 47 mins      ████████████████████████░   94.80 % 
+Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-watchitnow               20 hrs 24 mins      █████████████████████████   100.00 % 
+watchitnow               24 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +60,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 05:11:27 UTC
+ Last Updated on 01/01/2024 01:00:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

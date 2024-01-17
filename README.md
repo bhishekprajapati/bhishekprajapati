@@ -3,7 +3,7 @@
 [![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -34,18 +34,17 @@ Sunday                   253 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               23 hrs 39 mins      ████████████████████████░   96.25 % 
-Prisma                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               21 hrs 28 mins      ████████████████████████░   95.97 % 
+Prisma                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-hygge-next               24 hrs 34 mins      █████████████████████████   99.99 % 
-watchitnow               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+hygge-next               22 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +60,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2024 00:56:19 UTC
+ Last Updated on 17/01/2024 00:56:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

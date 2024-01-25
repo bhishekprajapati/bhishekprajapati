@@ -3,7 +3,7 @@
 [![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -34,18 +34,18 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               26 hrs 49 mins      █████████████████████████   98.48 % 
-Prisma                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript               26 hrs 4 mins       █████████████████████████   98.44 % 
+Prisma                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-hygge-next               27 hrs 14 mins      █████████████████████████   99.98 % 
+hygge-next               26 hrs 29 mins      █████████████████████████   99.98 % 
 watchitnow               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    27 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +61,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2024 00:57:10 UTC
+ Last Updated on 25/01/2024 00:57:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

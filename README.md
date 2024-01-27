@@ -3,7 +3,7 @@
 [![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -34,17 +34,16 @@ Sunday                   254 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               25 hrs 6 mins       █████████████████████████   99.46 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               18 hrs 51 mins      █████████████████████████   99.33 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-hygge-next               25 hrs 14 mins      █████████████████████████   99.98 % 
+hygge-next               18 hrs 58 mins      █████████████████████████   99.98 % 
 watchitnow               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    25 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,7 +59,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2024 00:53:28 UTC
+ Last Updated on 27/01/2024 00:52:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

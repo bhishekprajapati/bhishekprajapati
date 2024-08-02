@@ -1,7 +1,5 @@
 ![Banner](./Header.png)
 
-[![An image of @bhishekprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhishekprajapati)](https://holopin.io/@bhishekprajapati)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2020%20mins-blue)
 

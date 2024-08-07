@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -32,17 +32,17 @@ Sunday                   338 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               28 hrs 12 mins      ███████████████░░░░░░░░░░   59.66 % 
-MDX                      9 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-JSON                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JavaScript               2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               23 hrs 21 mins      ███████████████░░░░░░░░░░   59.51 % 
+MDX                      9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+JavaScript               2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+JSON                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  39 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    47 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +58,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2024 00:58:35 UTC
+ Last Updated on 07/08/2024 00:58:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

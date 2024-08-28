@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -30,16 +30,16 @@ Sunday                   345 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 49 mins      ████████████████████████░   97.15 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Rust                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               6 hrs 58 mins       ████████████████████████░   95.31 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Rust                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -55,7 +55,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 00:59:49 UTC
+ Last Updated on 28/08/2024 01:00:50 UTC
 <!--END_SECTION:waka-->
 <!--
 **bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

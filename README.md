@@ -1,16 +1,22 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!--
-**bhishekprajapati/bhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Abhishek! 👋  
 
-Here are some ideas to get you started:
+🚀 **Frontend Engineer** | Specialized in **React.js & Next.js**  
+🎨 Passionate about **building high-performance, scalable web apps**  
+⚡ Always optimizing **UX, performance, and code structure**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Tech Stack  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Fastify, Express, MongoDB  
+- **Other:** WebSockets, BigQuery, Git, Docker 
+
+### 📌 Featured Projects  
+- [**Portfolio**](https://github.com/bhishekprajapati/portfolio) – My personal dev portfolio  
+- [**DesignX**](https://github.com/bhishekprajapati/designx) – UI components & design experiments  
+- [**WatchItNow**](https://github.com/bhishekprajapati/watchitnow) – Movie streaming app  
+
+### 📫 Get in Touch  
+- 💼 [LinkedIn](https://linkedin.com/in/bhishekprajapati)  
+- 🌐 [Portfolio](https://prajapati.pro)
+- 📩 **Email:** [hi@prajapati.pro](mailto:hi@prajapati.pro)  
+
+Let's build something awesome! 🚀  
